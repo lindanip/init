@@ -1,0 +1,1 @@
+host slash.org | head -1 | awk '{print $4}'
