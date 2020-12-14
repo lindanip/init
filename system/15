@@ -1,0 +1,3 @@
+# this command require super user permission
+sudo kill <pid>
+

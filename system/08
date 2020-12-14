@@ -1,0 +1,4 @@
+# ~/.ssh/authorized_keys
+# Below is command form digitalocean to add authorized keys to a droplet
+# cat ~/.ssh/id_rsa.pub | \
+ssh username@203.0.113.0 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"

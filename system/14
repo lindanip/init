@@ -1,0 +1,6 @@
+# this command require super user permissions
+sudo tail -f /var/log/syslog &
+# will run the process in the background but will still write to the terminal used
+# the process id will be printed
+# sudo tail -f /var/log/syslog > /dev/null 2>&1 & 
+# will print the process id and  run the process in the background
