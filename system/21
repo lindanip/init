@@ -1,0 +1,3 @@
+# every real users has a home dir
+
+cat /etc/passwd | grep '/home'

@@ -1,1 +1,3 @@
 cat /var/run/sshd.pid
+
+# OR systemctl status sshd | grep -i 'main pid'

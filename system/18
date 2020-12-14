@@ -1,0 +1,5 @@
+# this process requires super user permissions
+sudo systemctl stop ssh
+
+# OR use
+# sudo kill PID

@@ -1,0 +1,3 @@
+# this process requires super user permissions
+
+sudo adduser the-username

@@ -1,0 +1,2 @@
+# this command reqiures super user rights
+sudo fdisk -l

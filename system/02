@@ -1,0 +1,4 @@
+# you need to logged in as root
+# Or use sudo
+
+hostnamectl set-hostname new-hostname

@@ -1,1 +1,4 @@
-/etc/hostname
+# the previous command will change the /etc/hostname file 
+# to match the new hostname
+
+/etc/hosts
