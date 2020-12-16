@@ -1,0 +1,2 @@
+# the NAT (Network Address Translation) is the one responsible for connecting our local network to other networks. NAT operates on the router, which using traceroute the first hop is the router used. 
+# traceroute slash16.org | head -2, the second line will show the ip address and a bit information of the router.
