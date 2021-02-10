@@ -1,4 +1,4 @@
-# you need to logged in as root
-# Or use sudo
+# Rename your system 
+# You need to login as root or use sudo
 
 hostnamectl set-hostname new-hostname
